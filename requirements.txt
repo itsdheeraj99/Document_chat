@@ -5,3 +5,4 @@ flask
 python-dotenv 
 pypdf
 faiss-cpu
+tiktoken
